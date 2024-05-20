@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "Controlled-Conversation",
+    "version": "1.0",
+    "permissions": ["tabs"],
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": true
+    },
+    "author": "RafalKKK",
+    "description": "Extension loads page www.google.com in a newly open tab. This allows to reload a page which is forced by your company admin as a homepage. This should bring a bit more freedom in the crazy corporate environment."
+}
