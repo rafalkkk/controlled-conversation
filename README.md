@@ -7,6 +7,6 @@ This extension will not disable that setting, but when you open a new tab it wil
 You should not see the ugly, slow loading company home page, instead a google page will be displayed. 
 You can change the home page in the background.js file slightly modifying the file, as described below.
 
-Do you like it? Buy me a coffee 😉 (https://paypal.me/controlconversation)[https://paypal.me/controlconversation]
+Do you like it? Buy me a coffee 😉 (https://paypal.me/controlconversation)
 
 Enjoy your freedom!
